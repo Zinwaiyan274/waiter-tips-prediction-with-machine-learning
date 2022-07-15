@@ -1,2 +1,3 @@
 # waiter-tips-prediction-with-machine-learning
-waiter-tips analysis and prediction
+
+Waiter Tips  analysis and prediction(Case Study)
